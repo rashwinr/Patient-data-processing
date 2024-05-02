@@ -4,9 +4,10 @@ This repository contains Python routines for preprocessing patient imaging data 
 
 ## Project Structure
 * `data_preprocessing.py` - A data preprocessing function that inputs a folder with patient data organized in sub-flders to generate a patient-level test-train split of data
-* 
 * ... (other files as I develop the project)
 
 ## Usage
 All the requirements have been put in the requirements.txt file
-
+```bash
+pip install -r requirements.txt
+```
