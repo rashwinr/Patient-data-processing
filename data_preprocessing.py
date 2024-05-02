@@ -87,7 +87,7 @@ def data_preprocessing(data_root,percentage=0.15):
 
 # if __name__ == "__main__":
 
-data_root = "/home/ark/Documents/Ultrasound Guided Needle Project/needle segmentation_true/"  # Replace with the actual path to your data
+data_root = "Your URL Here"  # Replace with the actual path to your data
 patient_summary,trainval_data, test_data = data_preprocessing(data_root,0.15)
 
 
