@@ -4,6 +4,7 @@ This repository contains Python routines for preprocessing patient imaging data 
 
 ## Project Structure
 * `data_preprocessing.py` - A data preprocessing function that inputs a folder with patient data organized in sub-flders to generate a patient-level test-train split of data
+* `imagesieviewer.py` - An Py Qt window to view the pixels identity of an image , helps in identifying the crop points for image post-processing
 * ... (other files as I develop the project)
 
 ## Usage
